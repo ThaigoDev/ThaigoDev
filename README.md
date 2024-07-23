@@ -1,8 +1,3 @@
-Claro! Aqui está um exemplo de README que você pode colocar no seu perfil do GitHub para deixá-lo mais atraente e informativo:
-
----
-
-```markdown
 # Hi there, I'm [Your Name]! 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/[YourUsername])
