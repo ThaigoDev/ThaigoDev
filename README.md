@@ -25,6 +25,23 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a keen 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
+## 📊 Skills
+
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-85%25-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-70%25-blue)
+![HTML5](https://img.shields.io/badge/HTML5-90%25-red)
+![CSS3](https://img.shields.io/badge/CSS3-80%25-blue)
+
+### Frameworks and Libraries
+![Node.js](https://img.shields.io/badge/Node.js-85%25-green)
+![Express.js](https://img.shields.io/badge/Express.js-75%25-black)
+![React](https://img.shields.io/badge/React-70%25-blue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-80%25-purple)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-80%25-green)
+
 ## 📈 GitHub Stats
 ![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&hide_border=true)
 
