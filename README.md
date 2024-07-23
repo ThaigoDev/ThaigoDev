@@ -1,4 +1,4 @@
-# Hi there, I'm Thiago Duarte! 👋
+# Hi there, I'm [Your Name]! 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/[YourUsername])
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/[YourLinkedIn])
@@ -28,19 +28,19 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a keen 
 ## 📊 Skills
 
 ### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-85%25-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-70%25-blue)
-![HTML5](https://img.shields.io/badge/HTML5-90%25-red)
-![CSS3](https://img.shields.io/badge/CSS3-80%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-A%2B-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-A-blue)
+![HTML5](https://img.shields.io/badge/HTML5-A%2B-red)
+![CSS3](https://img.shields.io/badge/CSS3-A-blue)
 
 ### Frameworks and Libraries
-![Node.js](https://img.shields.io/badge/Node.js-85%25-green)
-![Express.js](https://img.shields.io/badge/Express.js-75%25-black)
-![React](https://img.shields.io/badge/React-70%25-blue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-80%25-purple)
+![Node.js](https://img.shields.io/badge/Node.js-A%2B-green)
+![Express.js](https://img.shields.io/badge/Express.js-A-black)
+![React](https://img.shields.io/badge/React-A-blue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-A%2B-purple)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-80%25-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-A%2B-green)
 
 ## 📈 GitHub Stats
 ![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&hide_border=true)
@@ -51,23 +51,18 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a keen 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=ThaigoDev&theme=onedark)
 
-## 📉 Skills Breakdown
+## 📈 Skill Progression
 
-### Programming Languages
-![Programming Languages](https://quickchart.io/chart?c={type:'pie',data:{labels:['JavaScript','TypeScript','HTML5','CSS3'],datasets:[{data:[85,70,90,80]}]}})
+### Programming Languages Progression
+![Programming Languages Progression](https://quickchart.io/chart?c={type:'line',data:{labels:['2020','2021','2022','2023'],datasets:[{label:'JavaScript',data:[70,80,85,90],borderColor:'yellow',fill:false},{label:'TypeScript',data:[50,60,70,80],borderColor:'blue',fill:false},{label:'HTML5',data:[80,85,90,95],borderColor:'red',fill:false},{label:'CSS3',data:[60,70,80,85],borderColor:'blue',fill:false}]}})
 
-### Frameworks and Libraries
-![Frameworks and Libraries](https://quickchart.io/chart?c={type:'pie',data:{labels:['Node.js','Express.js','React','Bootstrap'],datasets:[{data:[85,75,70,80]}]}})
+### Frameworks and Libraries Progression
+![Frameworks and Libraries Progression](https://quickchart.io/chart?c={type:'line',data:{labels:['2020','2021','2022','2023'],datasets:[{label:'Node.js',data:[60,70,85,90],borderColor:'green',fill:false},{label:'Express.js',data:[50,60,75,80],borderColor:'black',fill:false},{label:'React',data:[40,60,70,80],borderColor:'blue',fill:false},{label:'Bootstrap',data:[60,70,80,85],borderColor:'purple',fill:false}]}})
 
-### Databases
-![Databases](https://quickchart.io/chart?c={type:'pie',data:{labels:['MongoDB'],datasets:[{data:[80]}]}})
+### Databases Progression
+![Databases Progression](https://quickchart.io/chart?c={type:'line',data:{labels:['2020','2021','2022','2023'],datasets:[{label:'MongoDB',data:[60,70,80,85],borderColor:'green',fill:false}]}})
 
 ## 📫 Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/[YourLinkedIn])
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/[YourTwitter])
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/[YourInstagram])
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/[YourFacebook])
-
----
-
-Feel free to customize the links and information to fit your personal details. If you need further adjustments or additional sections, let me know!
