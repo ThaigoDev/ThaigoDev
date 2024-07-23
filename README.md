@@ -51,6 +51,17 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a keen 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=[YourUsername]&theme=onedark)
 
+## 📉 Skills Breakdown
+
+### Programming Languages
+![Programming Languages](https://quickchart.io/chart?c={type:'pie',data:{labels:['JavaScript','TypeScript','HTML5','CSS3'],datasets:[{data:[85,70,90,80]}]}})
+
+### Frameworks and Libraries
+![Frameworks and Libraries](https://quickchart.io/chart?c={type:'pie',data:{labels:['Node.js','Express.js','React','Bootstrap'],datasets:[{data:[85,75,70,80]}]}})
+
+### Databases
+![Databases](https://quickchart.io/chart?c={type:'pie',data:{labels:['MongoDB'],datasets:[{data:[80]}]}})
+
 ## 📫 Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/[YourLinkedIn])
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/[YourTwitter])
