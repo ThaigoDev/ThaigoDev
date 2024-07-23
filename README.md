@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a keen 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=[YourUsername]&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=ThaigoDev&theme=onedark)
 
 ## 📉 Skills Breakdown
 
