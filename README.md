@@ -1,68 +1,74 @@
-# Hi there, I'm Thiago Duarte! 👋
+<div align="center">
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/[YourUsername])
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/[YourLinkedIn])
-[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white)](https://[YourWebsite])
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/[YourTwitter])
+  <h1><b>👋 Olá! Eu sou o Thiago Duarte</b></h1>
 
-Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a keen interest in building efficient and scalable web applications.
+  <h3><strong>Desenvolvedor Full-Stack | Apaixonado por Tecnologia, Design e Soluções Inteligentes.</strong></h3>
 
-## 🚀 About Me
-- 🌱 I’m currently learning **TypeScript** and **React.js**
-- 👨‍💻 I’m working on [OmniERP](https://github.com/[YourUsername]/OmniERP)
-- 💬 Ask me about **Node.js**, **Express.js**, **MongoDB**, **HTML**, **CSS**, **JavaScript**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: I love hiking and exploring new places
+  <p align="center">
+    <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:SEU-EMAIL-AQUI@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </p>
+  
+</div>
 
-## 🛠️ Languages and Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+---
 
-## 📊 Skills
+### 👨‍💻 Um Pouco Sobre Mim:
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-A%2B-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-A-blue)
-![HTML5](https://img.shields.io/badge/HTML5-A%2B-red)
-![CSS3](https://img.shields.io/badge/CSS3-A-blue)
+<p>
+  Sou um desenvolvedor Full-Stack focado em transformar ideias em realidade digital. Minha jornada na tecnologia é movida pela curiosidade e pelo desejo de criar software que não apenas funcione bem, mas que também ofereça uma experiência de usuário memorável.
+</p>
 
-### Frameworks and Libraries
-![Node.js](https://img.shields.io/badge/Node.js-A%2B-green)
-![Express.js](https://img.shields.io/badge/Express.js-A-black)
-![React](https://img.shields.io/badge/React-A-blue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-A%2B-purple)
+- 🔭 Atualmente, atuo como **desenvolvedor freelancer**, criando sistemas e sites personalizados para clientes.
+- 🎓 Cursando **Ciência da Computação** para aprofundar meus conhecimentos teóricos e práticos.
+- 🎯 Meus projetos unem **eficiência técnica com design atrativo**, desenvolvendo desde sistemas ERP e gerenciadores de leads até plataformas educacionais.
+- 🚀 Estou sempre aprendendo e evoluindo, buscando soluções inovadoras para problemas reais, com **código limpo, foco no usuário e boa documentação**.
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-A%2B-green)
+---
 
-## 📈 GitHub Stats
-![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&hide_border=true)
+### 🛠️ Tecnologias e Ferramentas
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/Back--End-000000?style=for-the-badge" />
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" width="52" alt="socketio logo"  />
+  
+  <br>
+  <img src="https://img.shields.io/badge/Front--End-000000?style=for-the-badge" />
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+  
+  <br>
+  <img src="https://img.shields.io/badge/Ferramentas_e_Outros-000000?style=for-the-badge" />
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo" />
+</p>
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=ThaigoDev&theme=onedark)
+---
 
-## 📈 Skill Progression
+### 📊 Minhas Estatísticas no GitHub
 
-### Programming Languages Progression
-![Programming Languages Progression](https://quickchart.io/chart?c={type:'line',data:{labels:['2020','2021','2022','2023'],datasets:[{label:'JavaScript',data:[70,80,85,90],borderColor:'yellow',fill:false},{label:'TypeScript',data:[50,60,70,80],borderColor:'blue',fill:false},{label:'HTML5',data:[80,85,90,95],borderColor:'red',fill:false},{label:'CSS3',data:[60,70,80,85],borderColor:'blue',fill:false}]}})
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-NOME-DE-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-### Frameworks and Libraries Progression
-![Frameworks and Libraries Progression](https://quickchart.io/chart?c={type:'line',data:{labels:['2020','2021','2022','2023'],datasets:[{label:'Node.js',data:[60,70,85,90],borderColor:'green',fill:false},{label:'Express.js',data:[50,60,75,80],borderColor:'black',fill:false},{label:'React',data:[40,60,70,80],borderColor:'blue',fill:false},{label:'Bootstrap',data:[60,70,80,85],borderColor:'purple',fill:false}]}})
+---
 
-### Databases Progression
-![Databases Progression](https://quickchart.io/chart?c={type:'line',data:{labels:['2020','2021','2022','2023'],datasets:[{label:'MongoDB',data:[60,70,80,85],borderColor:'green',fill:false}]}})
+### 📈 Gráfico de Contribuições
 
-## 📫 Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/[YourLinkedIn])
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/[YourTwitter])
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/[YourInstagram])
+<p align="center">
+  <img src="https://ghchart.rshah.org/SEU-NOME-DE-USUARIO-AQUI" alt="Gráfico de Contribuições" />
+</p>
+
+---
