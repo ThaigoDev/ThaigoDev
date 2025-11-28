@@ -71,8 +71,6 @@ public class Profile
 
 Backend
 
-<code><img height="30" src="https://skillicons.dev/icons?i=cs"/></code>
-<code><img height="30" src="https://skillicons.dev/icons?i=dotnet"/></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"/></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg"/></code>
