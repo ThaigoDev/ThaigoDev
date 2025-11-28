@@ -1,74 +1,111 @@
-<div align="center">
 
-  <h1><b>👋 Olá! Eu sou o Thiago Duarte</b></h1>
+## Olá, me chamo Thiago! 👋
+Meu nome é **Thiago**, sou **Desenvolvedor Full-Stack** e estou cursando **Ciência da Computação**. 
 
-  <h3><strong>Desenvolvedor Full-Stack | Apaixonado por Tecnologia, Design e Soluções Inteligentes.</strong></h3>
+<!-- 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#845EC2&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=845EC2&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Marcelo+;I'm+19+years+old;I'm+from+Brazil;I+Graduated+software+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="mailto:SEU-EMAIL-AQUI@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </p>
-  
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThaigoDev&bg_color=0D1117&color=ffff&line=ffff&point=845EC2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-### 👨‍💻 Um Pouco Sobre Mim:
-
-<p>
-  Sou um desenvolvedor Full-Stack focado em transformar ideias em realidade digital. Minha jornada na tecnologia é movida pela curiosidade e pelo desejo de criar software que não apenas funcione bem, mas que também ofereça uma experiência de usuário memorável.
-</p>
-
-- 🔭 Atualmente, atuo como **desenvolvedor freelancer**, criando sistemas e sites personalizados para clientes.
-- 🎓 Cursando **Ciência da Computação** para aprofundar meus conhecimentos teóricos e práticos.
-- 🎯 Meus projetos unem **eficiência técnica com design atrativo**, desenvolvendo desde sistemas ERP e gerenciadores de leads até plataformas educacionais.
-- 🚀 Estou sempre aprendendo e evoluindo, buscando soluções inovadoras para problemas reais, com **código limpo, foco no usuário e boa documentação**.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Back--End-000000?style=for-the-badge" />
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" width="52" alt="socketio logo"  />
-  
-  <br>
-  <img src="https://img.shields.io/badge/Front--End-000000?style=for-the-badge" />
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  
-  <br>
-  <img src="https://img.shields.io/badge/Ferramentas_e_Outros-000000?style=for-the-badge" />
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ThaigoDev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
----
+ -->
 
-### 📊 Minhas Estatísticas no GitHub
+```c#
+using System;
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-NOME-DE-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+public class Profile
+{
+    public string Name { get; set; }
+    public string[] Skills { get; set; }
+    public string About { get; set; }
 
----
+    public Profile()
+    {
+        this.Name = "Marcelo Henrique";
+        this.Skills = new string[] { "C#", "JAVA", "SPRING BOOT", ".NET", "JAVASCRIPT", "HTML", "CSS", "ANGULAR" };
+        this.About = "Desenvolvedor Back-End";
+    }
+}
 
-### 📈 Gráfico de Contribuições
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/SEU-NOME-DE-USUARIO-AQUI" alt="Gráfico de Contribuições" />
-</p>
+```
 
----
+
+<br>
+ <table>
+  <tr>
+     <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=ThaigoDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaigoDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=ThaigoDev&theme=dark&hide_border=false"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
+</table>
+
+<br>
+<br>
+
+## 🛠 &nbsp; Linguagens e ferramentas
+
+Backend
+
+<code><img height="30" src="https://skillicons.dev/icons?i=cs"/></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=dotnet"/></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"/></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg"/></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/></code>
+<br>
+  
+Frontend
+
+<code><img height="30" src="https://skillicons.dev/icons?i=html"/></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=css"/></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=javascript"/></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"/></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=react"/></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=tailwind"/></code>
+
+<br>
+
+Database
+
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/></code>
+<code><img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver"/></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/></code>
+
+<br>
+
+Message-Queueing
+
+ <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg"/></code> 
+
+<br>
+
+Controle de Versão
+
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/></code> 
+
