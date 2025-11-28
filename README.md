@@ -18,16 +18,14 @@ Meu nome é **Thiago**, sou **Desenvolvedor Full-Stack** e estou cursando **Ciê
 ```c#
 using System;
 
-public class Profile
-{
-    public string Name { get; set; }
-    public string[] Skills { get; set; }
-    public string About { get; set; }
+export class Profile {
+    public Name: string;
+    public Skills: string[];
+    public About: string;
 
-    public Profile()
-    {
+    constructor() {
         this.Name = "Marcelo Henrique";
-        this.Skills = new string[] { "C#", "JAVA", "SPRING BOOT", ".NET", "JAVASCRIPT", "HTML", "CSS", "ANGULAR" };
+        this.Skills = ["C#", "JAVA", "SPRING BOOT", ".NET", "JAVASCRIPT", "HTML", "CSS", "ANGULAR"];
         this.About = "Desenvolvedor Back-End";
     }
 }
