@@ -15,8 +15,7 @@ Meu nome é **Thiago**, sou **Desenvolvedor Full-Stack** e estou cursando **Ciê
 
  -->
 
-```c#
-using System;
+```ts
 
 export class Profile {
     public Name: string;
@@ -25,7 +24,7 @@ export class Profile {
 
     constructor() {
         this.Name = "Marcelo Henrique";
-        this.Skills = ["C#", "JAVA", "SPRING BOOT", ".NET", "JAVASCRIPT", "HTML", "CSS", "ANGULAR"];
+        this.Skills = ["TS", "Node.js", "Express", "Nest", "React", "React Native", "JavaScript"];
         this.About = "Desenvolvedor Back-End";
     }
 }
