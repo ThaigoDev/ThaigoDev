@@ -76,8 +76,9 @@ Backend
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"/></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg"/></code>
-<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/></code>
-<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg"/></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"/></code>
+
 <br>
   
 Frontend
@@ -88,6 +89,10 @@ Frontend
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"/></code>
 <code><img height="30" src="https://skillicons.dev/icons?i=react"/></code>
 <code><img height="30" src="https://skillicons.dev/icons?i=tailwind"/></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=bootstrap"/></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=jquery"/></code>
+
+
 
 <br>
 
@@ -96,14 +101,12 @@ Database
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/></code>
 <code><img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver"/></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"/></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg"/></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/></code>
+
 
 <br>
 
-Message-Queueing
-
- <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg"/></code> 
-
-<br>
 
 Controle de Versão
 
