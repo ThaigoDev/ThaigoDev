@@ -23,9 +23,9 @@ export class Profile {
     public About: string;
 
     constructor() {
-        this.Name = "Marcelo Henrique";
+        this.Name = "Thiago Duarte";
         this.Skills = ["TS", "Node.js", "Express", "Nest", "React", "React Native", "JavaScript"];
-        this.About = "Desenvolvedor Back-End";
+        this.About = "Desenvolvedor Full-Stack";
     }
 }
 
