@@ -1,6 +1,6 @@
 
 ## Olá, me chamo Thiago! 👋
-Meu nome é **Thiago**, sou **Desenvolvedor Full-Stack** e estou cursando **Ciência da Computação**. 
+Meu nome é **Thiago**, sou **Desenvolvedor Back-End Java ** e estou cursando **Ciência da Computação**. 
 
 <!-- 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#845EC2&height=120&section=header"/>
@@ -17,14 +17,14 @@ Meu nome é **Thiago**, sou **Desenvolvedor Full-Stack** e estou cursando **Ciê
 
 ```ts
 
-export class Profile {
-    public Name: string;
-    public Skills: string[];
-    public About: string;
+public  class Profile {
+    public string Name { get; set; }
+    public string[] Skills { get; set; }
+    public string About { get; set; }
 
-    constructor() {
+    public Profile() {
         this.Name = "Thiago Duarte";
-        this.Skills = ["TS", "Node.js", "Express", "Nest", "React", "React Native", "JavaScript"];
+        this.Skills = new string[] { "C#", "JAVA", "SPRING BOOT", ".NET", "JAVASCRIPT", "HTML", "CSS", "ANGULAR" };
         this.About = "Desenvolvedor Full-Stack";
     }
 }
@@ -67,12 +67,13 @@ export class Profile {
 ## 🛠 &nbsp; Linguagens e ferramentas
 
 Backend
-
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"/></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg"/></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg"/></code>
-<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"/></code>
+
 
 <br>
   
