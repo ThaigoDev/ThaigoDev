@@ -24,7 +24,7 @@ public  class Profile {
 
     public Profile() {
         this.Name = "Thiago Duarte";
-        this.Skills = new string[] { "C#", "JAVA", "SPRING BOOT", ".NET", "JAVASCRIPT", "HTML", "CSS", "ANGULAR" };
+        this.Skills = new string[] { "Java", "Spring Boot", "Nest js", "Express js", "React js", "Next js"};
         this.About = "Desenvolvedor Full-Stack";
     }
 }
