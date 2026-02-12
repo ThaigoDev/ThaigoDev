@@ -18,13 +18,15 @@ Meu nome é **Thiago**, sou **Desenvolvedor Back-End Java ** e estou cursando **
 ```ts
 
 public  class Profile {
-    public string Name { get; set; }
-    public string[] Skills { get; set; }
-    public string About { get; set; }
+    private String Name;
+    private String[] Skills;
+    private String About;
 
     public Profile() {
+    }
+    public Profile() {
         this.Name = "Thiago Duarte";
-        this.Skills = new string[] { "Java", "Spring Boot", "Nest js", "Express js", "React js", "Next js"};
+        this.Skills = new String[] { "Java", "Spring Boot", "Nest js", "Express js", "React js", "Next js"};
         this.About = "Desenvolvedor Full-Stack";
     }
 }
