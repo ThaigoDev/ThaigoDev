@@ -1,6 +1,6 @@
 
 ## Olá, me chamo Thiago! 👋
-Meu nome é **Thiago**, sou **Desenvolvedor Back-End Java ** e estou cursando **Ciência da Computação**. 
+Meu nome é *Thiago*, sou *Desenvolvedor Back-End Java* e estou cursando **Ciência da Computação**. 
 
 <!-- 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#845EC2&height=120&section=header"/>
