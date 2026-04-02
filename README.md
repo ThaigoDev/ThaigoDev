@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Thiago, sou Desenvolvedor Back-End Java e estou cursando Ciência da Computação.</p>
+<p align="left">Meu nome é Thiago, sou Desenvolvedor Back-End com foco em Java e estudante de Ciência da Computação. Possuo experiência no desenvolvimento de APIs e sistemas, trabalhando com boas práticas como arquitetura em camadas, versionamento de código e definição de contratos com ferramentas como Swagger. Tenho familiaridade com a construção de aplicações escaláveis, integração entre serviços e organização de projetos voltados para ambientes reais.</p>
 
 ###
 
